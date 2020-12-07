@@ -1,6 +1,3 @@
-# CMT114 Coursework
-# student number:1886015
-
 
 import json
 import pandas as pd
